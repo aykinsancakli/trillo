@@ -377,8 +377,7 @@ body {
 }
 @media only screen and (max-width: 25em) {
   .overview__heading {
-    padding: 1rem 0 1rem 1.75rem;
-    margin-right: 0.5rem;
+    padding: 1rem 1.75rem 1rem 1.75rem;
   }
 }
 .overview__stars {
@@ -461,7 +460,7 @@ body {
 @media only screen and (max-width: 25em) {
   .overview__rating-count {
     transform: translateY(-0.5rem);
-    font-size: 0.9rem;
+    font-size: 1rem;
   }
 }
 
